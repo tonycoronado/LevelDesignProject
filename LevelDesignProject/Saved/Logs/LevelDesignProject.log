@@ -1421,3 +1421,224 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.15-10.41.26:731][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 252 ms)
 [2024.04.15-10.41.26:732][856]AssetCheck: New page: Asset Save: Floor02_ste_test_2
 [2024.04.15-10.41.26:732][856]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2
+[2024.04.15-10.44.14:555][129]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StealthAI/Demo/StealthCharacter_CAN_DELETE/BP_StealthPlayer.BP_StealthPlayer_C
+[2024.04.15-10.44.14:555][129]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StealthAI/Demo/StealthCharacter_CAN_DELETE/BP_StealthPlayer.BP_StealthPlayer_C
+[2024.04.15-10.44.14:563][129]LogActorFactory: Actor Factory spawned Blueprint /Game/StealthAI/Demo/StealthCharacter_CAN_DELETE/BP_StealthPlayer.BP_StealthPlayer as actor: BP_StealthPlayer_C /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2:PersistentLevel.BP_StealthPlayer_C_0
+[2024.04.15-10.44.14:565][129]LogActorFactory: Actor Factory spawned Blueprint /Game/StealthAI/Demo/StealthCharacter_CAN_DELETE/BP_StealthPlayer.BP_StealthPlayer as actor: BP_StealthPlayer_C /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2:PersistentLevel.BP_StealthPlayer_C_0
+[2024.04.15-10.44.16:017][287]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StealthAI/Demo/StealthCharacter_CAN_DELETE/BP_StealthPlayer.BP_StealthPlayer_C
+[2024.04.15-10.44.16:017][287]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StealthAI/Demo/StealthCharacter_CAN_DELETE/BP_StealthPlayer.BP_StealthPlayer_C
+[2024.04.15-10.44.16:026][287]LogActorFactory: Actor Factory spawned Blueprint /Game/StealthAI/Demo/StealthCharacter_CAN_DELETE/BP_StealthPlayer.BP_StealthPlayer as actor: BP_StealthPlayer_C /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2:PersistentLevel.BP_StealthPlayer_C_1
+[2024.04.15-10.44.16:028][287]LogActorFactory: Actor Factory spawned Blueprint /Game/StealthAI/Demo/StealthCharacter_CAN_DELETE/BP_StealthPlayer.BP_StealthPlayer as actor: BP_StealthPlayer_C /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2:PersistentLevel.BP_StealthPlayer_C_1
+[2024.04.15-10.44.16:109][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-10.44.16:155][288]LogViewport: Scene viewport resized to 361x190, mode Windowed.
+[2024.04.15-10.44.17:246][402]Cmd: TRANSACTION UNDO
+[2024.04.15-10.44.17:246][402]LogEditorTransaction: Undo Create Actors
+[2024.04.15-10.44.37:323][675]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.15-10.44.39:810][939]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.15-10.44.44:264][435]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.15-10.45.11:270][289]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.15-10.45.12:902][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-10.45.12:981][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.15-10.45.12:990][483]LogSavePackage: Moving output files for package: /Game/_Game/Maps/Floor02_ste_test_2
+[2024.04.15-10.45.12:991][483]LogSavePackage: Moving '../../../../../../Users/stephanie.andrade/Documents/GitHub/LevelDesignProject/LevelDesignProject/Saved/Floor02_ste_test_2F6DB46804D00BABC41FC03B235F7E5A3.tmp' to '../../../../../../Users/stephanie.andrade/Documents/GitHub/LevelDesignProject/LevelDesignProject/Content/_Game/Maps/Floor02_ste_test_2.umap'
+[2024.04.15-10.45.12:997][483]LogFileHelpers: Saving map 'Floor02_ste_test_2' took 0.047
+[2024.04.15-10.45.13:001][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 351 ms)
+[2024.04.15-10.45.13:003][483]AssetCheck: New page: Asset Save: Floor02_ste_test_2
+[2024.04.15-10.45.13:003][483]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2
+[2024.04.15-10.45.13:107][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-10.45.13:154][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.04.15-10.45.13:163][494]LogSavePackage: Moving output files for package: /Game/_Game/Maps/Floor02_ste_test_2
+[2024.04.15-10.45.13:164][494]LogSavePackage: Moving '../../../../../../Users/stephanie.andrade/Documents/GitHub/LevelDesignProject/LevelDesignProject/Saved/Floor02_ste_test_23C8FCB224F83F7FA467DC0A93BAE0DB3.tmp' to '../../../../../../Users/stephanie.andrade/Documents/GitHub/LevelDesignProject/LevelDesignProject/Content/_Game/Maps/Floor02_ste_test_2.umap'
+[2024.04.15-10.45.13:170][494]LogFileHelpers: Saving map 'Floor02_ste_test_2' took 0.038
+[2024.04.15-10.45.13:173][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 419 ms)
+[2024.04.15-10.45.13:174][494]AssetCheck: New page: Asset Save: Floor02_ste_test_2
+[2024.04.15-10.45.13:175][494]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2
+[2024.04.15-10.45.15:364][755]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-10.45.15:375][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-10.45.15:376][755]PIE: New page: PIE session: Floor02_ste_test_2 (15 Apr 2024, 14:45:15)
+[2024.04.15-10.45.15:377][755]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2024.04.15-10.45.15:378][755]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.04.15-10.45.15:399][756]LogPlayLevel: Creating play world package: /Game/_Game/Maps/UEDPIE_0_Floor02_ste_test_2
+[2024.04.15-10.45.15:401][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002536s)
+[2024.04.15-10.45.15:401][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2 to /Game/_Game/Maps/UEDPIE_0_Floor02_ste_test_2.Floor02_ste_test_2 (0.002586s)
+[2024.04.15-10.45.15:404][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.04.15-10.45.15:405][756]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-10.45.15:405][756]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-10.45.15:405][756]LogAIModule: Creating AISystem for world Floor02_ste_test_2
+[2024.04.15-10.45.15:406][756]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2024.04.15-10.45.15:406][756]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.15-10.45.15:406][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-10.45.15:406][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-10.45.15:406][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-10.45.15:406][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-10.45.15:406][756]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-10.45.15:406][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-10.45.15:406][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-10.45.15:406][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-10.45.15:407][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-10.45.15:407][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-10.45.15:407][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-10.45.15:408][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-10.45.15:423][756]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-10.45.15:423][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-10.45.15:423][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-10.45.15:423][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-10.45.15:424][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.15-10.45.15:424][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.15-10.45.15:425][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.15-10.45.15:425][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.15-10.45.15:425][756]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.15-10.45.15:425][756]LogAudio: Display: Audio Device (ID: 2) registered with world 'Floor02_ste_test_2'.
+[2024.04.15-10.45.15:425][756]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.15-10.45.15:430][756]LogLoad: Game class is 'StealthGameMode_C'
+[2024.04.15-10.45.15:431][756]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_EnemyAI_PARENT_C_1, they are designed to work with AAIControllers!
+[2024.04.15-10.45.15:432][756]LogWorld: Bringing World /Game/_Game/Maps/UEDPIE_0_Floor02_ste_test_2.Floor02_ste_test_2 up for play (max tick rate 0) at 2024.04.15-12.45.15
+[2024.04.15-10.45.15:436][756]LogWorld: Bringing up level for play took: 0.005398
+[2024.04.15-10.45.15:442][756]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.15-10.45.15:443][756]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.15-10.45.15:443][756]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.04.15-10.45.15:450][756]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.04.15-10.45.15:450][756]PIE: Server logged in
+[2024.04.15-10.45.15:450][756]PIE: Play in editor total start time 0.077 seconds.
+[2024.04.15-10.45.27:019][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-10.45.27:019][120]LogWorld: BeginTearingDown for /Game/_Game/Maps/UEDPIE_0_Floor02_ste_test_2
+[2024.04.15-10.45.27:020][120]LogWorld: UWorld::CleanupWorld for Floor02_ste_test_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-10.45.27:020][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-10.45.27:023][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-10.45.27:024][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-10.45.27:026][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-10.45.27:026][120]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.15-10.45.27:027][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.15-10.45.27:028][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.15-10.45.27:032][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.04.15-10.45.27:094][122]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.04.15-10.51.10:239][764]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: ================================================
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Total job queries 39, among them cache hits 20 (51.28%)
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 16 distinct outputs (100.00%)
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: RAM used: 395.20 KiB of 819.20 MiB budget. Usage: 0.05%
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 0.82 s
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Job life time (pending + execution): average 0.91 s, max 0.91
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Shader code size: average 31.922 KiB, min 31.922 KiB, max 31.922 KiB
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.91 s
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Average processing rate: 1.09 jobs/sec
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Total thread time: 0.409 s
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Total thread preprocess time: 0.311 s
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Percentage time preprocessing: 76.16%
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Effective parallelization: 0.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.04.15-10.51.11:171][874]LogShaderCompilers: Display: ================================================
+[2024.04.15-10.54.02:769][  0]Cmd: DUPLICATE
+[2024.04.15-10.54.02:769][  0]Cmd: ACTOR DUPLICATE
+[2024.04.15-10.55.53:486][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.04.15-10.55.53:496][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Game/Maps/Floor02_ste_test_2_Auto2
+[2024.04.15-10.55.53:496][384]LogSavePackage: Moving '../../../../../../Users/stephanie.andrade/Documents/GitHub/LevelDesignProject/LevelDesignProject/Saved/Floor02_ste_test_2_Auto2213B572A4DF784CD9FF49DB7ECCBC59B.tmp' to '../../../../../../Users/stephanie.andrade/Documents/GitHub/LevelDesignProject/LevelDesignProject/Saved/Autosaves/Game/_Game/Maps/Floor02_ste_test_2_Auto2.umap'
+[2024.04.15-10.55.53:497][384]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/stephanie.andrade/Documents/GitHub/LevelDesignProject/LevelDesignProject/Saved/Autosaves/Game/_Game/Maps/Floor02_ste_test_2_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.15-10.55.53:497][384]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/_Game/Maps/Floor02_ste_test_2_Auto2 is in the /Temp path, will not scan.
+[2024.04.15-10.55.53:497][384]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/_Game/Maps/Floor02_ste_test_2_Auto2 is in the /Temp path, will not scan.
+[2024.04.15-10.55.53:497][384]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Game/Maps/Floor02_ste_test_2' took 0.014
+[2024.04.15-10.55.53:497][384]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.014
+[2024.04.15-10.56.33:675][175]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder
+[2024.04.15-10.56.33:675][175]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder
+[2024.04.15-10.56.33:675][175]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder as actor: StaticMeshActor /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2:PersistentLevel.StaticMeshActor_28
+[2024.04.15-10.56.36:627][501]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-10.56.36:627][501]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-10.56.36:627][501]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2:PersistentLevel.StaticMeshActor_29
+[2024.04.15-10.56.38:164][683]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-10.56.38:164][683]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-10.56.38:165][683]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2:PersistentLevel.StaticMeshActor_30
+[2024.04.15-10.56.42:229][164]Cmd: TRANSACTION UNDO
+[2024.04.15-10.56.42:229][164]LogEditorTransaction: Undo Scale Elements
+[2024.04.15-10.56.42:697][173]Cmd: TRANSACTION UNDO
+[2024.04.15-10.56.42:697][173]LogEditorTransaction: Undo Scale Elements
+[2024.04.15-10.57.00:947][321]Cmd: DUPLICATE
+[2024.04.15-10.57.00:948][321]Cmd: ACTOR DUPLICATE
+[2024.04.15-10.57.13:406][769]Cmd: DUPLICATE
+[2024.04.15-10.57.13:406][769]Cmd: ACTOR DUPLICATE
+[2024.04.15-10.59.20:674][213]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-10.59.20:674][213]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-10.59.20:675][213]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2:PersistentLevel.StaticMeshActor_33
+[2024.04.15-10.59.23:753][575]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-10.59.23:753][575]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-10.59.23:754][575]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2:PersistentLevel.StaticMeshActor_34
+[2024.04.15-10.59.47:257][299]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-10.59.47:257][299]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-10.59.47:257][299]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2:PersistentLevel.StaticMeshActor_35
+[2024.04.15-10.59.48:872][490]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-10.59.48:872][490]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-10.59.48:873][490]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2:PersistentLevel.StaticMeshActor_36
+[2024.04.15-11.00.18:648][942]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-11.00.18:648][942]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-11.00.18:649][942]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2:PersistentLevel.StaticMeshActor_37
+[2024.04.15-11.00.21:337][260]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-11.00.21:337][260]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.04.15-11.00.21:338][260]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2:PersistentLevel.StaticMeshActor_38
+[2024.04.15-11.01.11:651][ 58]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-11.01.11:655][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-11.01.11:655][ 58]PIE: New page: PIE session: Floor02_ste_test_2 (15 Apr 2024, 15:01:11)
+[2024.04.15-11.01.11:676][ 58]LogPlayLevel: Display: Creating online subsystem for client :Context_14
+[2024.04.15-11.01.11:678][ 58]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.04.15-11.01.11:696][ 59]LogPlayLevel: Creating play world package: /Game/_Game/Maps/UEDPIE_0_Floor02_ste_test_2
+[2024.04.15-11.01.11:699][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002953s)
+[2024.04.15-11.01.11:699][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Game/Maps/Floor02_ste_test_2.Floor02_ste_test_2 to /Game/_Game/Maps/UEDPIE_0_Floor02_ste_test_2.Floor02_ste_test_2 (0.002989s)
+[2024.04.15-11.01.11:701][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.04.15-11.01.11:702][ 59]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-11.01.11:702][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-11.01.11:702][ 59]LogAIModule: Creating AISystem for world Floor02_ste_test_2
+[2024.04.15-11.01.11:703][ 59]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2024.04.15-11.01.11:703][ 59]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.15-11.01.11:703][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-11.01.11:703][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-11.01.11:703][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-11.01.11:703][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-11.01.11:703][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-11.01.11:703][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-11.01.11:703][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-11.01.11:703][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-11.01.11:703][ 59]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-11.01.11:703][ 59]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-11.01.11:703][ 59]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-11.01.11:704][ 59]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-11.01.11:718][ 59]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-11.01.11:718][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-11.01.11:718][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-11.01.11:718][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-11.01.11:719][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.15-11.01.11:719][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.15-11.01.11:720][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.15-11.01.11:720][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.15-11.01.11:720][ 59]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.15-11.01.11:720][ 59]LogAudio: Display: Audio Device (ID: 3) registered with world 'Floor02_ste_test_2'.
+[2024.04.15-11.01.11:720][ 59]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.15-11.01.11:722][ 59]LogLoad: Game class is 'StealthGameMode_C'
+[2024.04.15-11.01.11:724][ 59]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_EnemyAI_PARENT_C_1, they are designed to work with AAIControllers!
+[2024.04.15-11.01.11:724][ 59]LogWorld: Bringing World /Game/_Game/Maps/UEDPIE_0_Floor02_ste_test_2.Floor02_ste_test_2 up for play (max tick rate 0) at 2024.04.15-13.01.11
+[2024.04.15-11.01.11:724][ 59]LogWorld: Bringing up level for play took: 0.001845
+[2024.04.15-11.01.11:725][ 59]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.15-11.01.11:725][ 59]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.15-11.01.11:725][ 59]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.04.15-11.01.11:727][ 59]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.04.15-11.01.11:727][ 59]PIE: Server logged in
+[2024.04.15-11.01.11:728][ 59]PIE: Play in editor total start time 0.073 seconds.
+[2024.04.15-11.01.24:027][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-11.01.24:027][523]LogWorld: BeginTearingDown for /Game/_Game/Maps/UEDPIE_0_Floor02_ste_test_2
+[2024.04.15-11.01.24:027][523]LogWorld: UWorld::CleanupWorld for Floor02_ste_test_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-11.01.24:027][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-11.01.24:029][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-11.01.24:030][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-11.01.24:033][523]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.15-11.01.24:033][523]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.15-11.01.24:033][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.15-11.01.24:034][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.15-11.01.24:037][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-11.01.24:038][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.04.15-11.01.24:109][525]LogPlayLevel: Display: Destroying online subsystem :Context_14
